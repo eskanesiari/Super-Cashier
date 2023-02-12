@@ -21,7 +21,7 @@ Ini merupakan suatu project Self-Service Cashier dengan menggunakan bahasa pemog
 - Fitur untuk menghitung total belanja yang dibeli customer.
 
 ## FLOWCHART
-![flowchart super cashier](https://user-images.githubusercontent.com/101574764/218294231-448b4c55-dad8-4589-bca4-408665b3902f.png)
+![10  flowchart super cashier](https://user-images.githubusercontent.com/101574764/218294271-b26c277f-4269-464d-87bb-26ddc5231d3d.jpg)
 
 ## CODE "SCRIPT"
 Semua kode di bawah ini berada pada file `script.py`.
