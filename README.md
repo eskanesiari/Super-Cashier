@@ -3,10 +3,10 @@ Python Project Pacmann - AI/ML Engineering
 
 ---
 
-## MENGENAI PROJECT
+## OVERVIEW PROJECT
 Ini merupakan suatu project Self-Service Cashier dengan menggunakan bahasa pemograman Python.
 
-## LATAR BELAKANG
+## BACKGROUND
 - Untuk mempersingkat bisnis proses yaitu dengan membuat sistem kasir yang self-serice, sehingga customer bisa langsung memasukan item yang dibeli, jumlah item yang dibeli, dan harga item yang dibeli.
 - Agar customer yang berada di luar kota juga dapat melakukan pembelian di supermarket ini.
 - Agar proses transaksi menjadi lebih efisien, karena customer tidak perlu menunggu untuk dilayani dan menghitung total belanja secara manual.
@@ -54,7 +54,7 @@ Semua code di bawah ini berada pada file `test_case.ipyb`.
 **Test 5 :** Customer ingin mengganti item yang sebelumnya Ayam goreng menjadi Ayam bakar.
 ![5  update name](https://user-images.githubusercontent.com/101574764/218291168-622efbb9-36da-4cc4-8ba9-686a9ddaf834.jpg)
 
-**Test 6 :** Customer ingin menghapus item Pasta Gigi dikarenakan tidak menjadi membeli, sehingga pesanan terkahir nya menjadi Ayam Bakar saja yang harga 30.000 sebanyak 4 ekor.
+**Test 6 :** Customer ingin menghapus item Pasta Gigi dikarenakan tidak menjadi membeli, sehingga pesanan terakhir nya menjadi Ayam Bakar saja yang harga 30.000 sebanyak 4 ekor.
 ![6  delete](https://user-images.githubusercontent.com/101574764/218291171-b810c12f-0edd-4aa3-8807-10db8cf2e214.jpg)
 
 **Test 7 :** Customer ingin menghapus semua pesanan yang sudah dimasukkan dan mengecek apakah pesanannya sudah terhapus semua.
@@ -69,5 +69,14 @@ Semua code di bawah ini berada pada file `test_case.ipyb`.
 
 **Test 9 :** Customer selesai berbelanja dan menghitung total belanja yang harus dibayarkan.
 ![9  total](https://user-images.githubusercontent.com/101574764/218291188-c10d7eb1-8818-4f72-aa51-d1e341683f89.jpg)
+
+
+##SUMMARY
+1. Super Cashier merupakan suatu program yang dapat membantu penjual/pemilik supermarket untuk menjual produknya secara efiesien dan tercatat.
+2. Semua fitur yang ada dalam program ini sangat membantu customer dengan mudah, tepat dan cepat dalam proses transaksi yang dilakukan secara mandiri.
+
+##NEXT DEVELOPMENT
+1. Sebaiknya dibuatkan dalam suatu aplikasi yang friendly user
+2. Sebaiknya ditambahkan dengan fitur pengiriman, live chat dan refund jika terjadi complain.
 
 
