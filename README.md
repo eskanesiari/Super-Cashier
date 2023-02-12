@@ -33,15 +33,22 @@ Semua kode di bawah ini berada pada file `script.py`.
 - Membuat fungsi untuk menghapus semua transaksi (reset) dengan `def reset_transaction(self):`
 - Membuat fungsi untuk mengecek pesanan (check order) dengan `def check_order(self):`
 - Membuat fungsi untuk menghitung total belanja yang dibeli dengan `def total_price(self):`
-Semua kode ini berada pada file `script.py`
 
 ## CODE "TEST CASE"
 Semua code di bawah ini berada pada file `test_case.ipyb`.
 
-#Test 2
+
+**Test 1**
+Customer ingin membuat ID transaksi.
+---
+![1  ID customer](https://user-images.githubusercontent.com/101574764/218291152-b3e34d57-4544-40a6-9a16-635ff4fd2002.jpg)
+
+
+**Test 2**
 Customer ingin menambahkan dua item baru menggunakan method `add_item()`, dan item yang ditambahkan adalah 
 - Nama item : Ayam Goreng, Quantity : 2, Harga : 20.000
 - Nama item : Pasta Gigi, Quantity : 3, Harga : 15.000
-Output:
-![Alt Text](C:\Users\Lenovo\Desktop\Python - Super Cashier\2. add item.jpg)
+---
+![2  add item](https://user-images.githubusercontent.com/101574764/218290996-1a93cef5-2e0a-4d42-a37b-38a1a7124d08.jpg)
+
 
