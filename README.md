@@ -37,3 +37,11 @@ Semua kode ini berada pada file `script.py`
 
 ## CODE "TEST CASE"
 Semua code di bawah ini berada pada file `test_case.ipyb`.
+
+#Test 1
+Customer ingin menambahkan dua item baru menggunakan method `add_item()`, dan item yang ditambahkan adalah 
+- Nama item : Ayam Goreng, Quantity : 2, Harga : 20.000
+- Nama item : Pasta Gigi, Quantity : 3, Harga : 15.000
+Output:
+
+
