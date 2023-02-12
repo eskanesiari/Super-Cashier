@@ -36,15 +36,38 @@ Semua kode di bawah ini berada pada file `script.py`.
 
 ## CODE "TEST CASE"
 Semua code di bawah ini berada pada file `test_case.ipyb`.
-**Test 1 :**Customer ingin membuat ID transaksi.
----
-![1  ID customer](https://user-images.githubusercontent.com/101574764/218291152-b3e34d57-4544-40a6-9a16-635ff4fd2002.jpg)
 
+**Test 1 :** Customer ingin membuat ID transaksi.
+![1  ID customer](https://user-images.githubusercontent.com/101574764/218291988-770badf7-a5d4-4c16-8475-5c429100cfda.jpg)
 
-**Test 2 :** Customer ingin menambahkan dua item baru menggunakan method `add_item()`, dan item yang ditambahkan adalah 
+**Test 2 :** Customer ingin menambahkan dua item baru yaitu item yang ditambahkan adalah 
 - Nama item : Ayam Goreng, Quantity : 2, Harga : 20.000
 - Nama item : Pasta Gigi, Quantity : 3, Harga : 15.000
----
 ![2  add item](https://user-images.githubusercontent.com/101574764/218290996-1a93cef5-2e0a-4d42-a37b-38a1a7124d08.jpg)
+
+**Test 3 :** Customer ingin mengganti jumlah dari Ayam goreng yang sebelumnya dibeli sebanyak 2 ekor menjadi 4 ekor.
+![3  update quantity](https://user-images.githubusercontent.com/101574764/218291163-eff62c76-a4ac-4c5d-8906-b8a2694b75dc.jpg)
+
+**Test 4 :** Customer ingin mengganti harga Ayam goreng yang sebelumnya ukuran kecil sebesar 20.000 menjadi Ayam goreng yang ukuran besar dengan harga 30.000.
+![4  update price](https://user-images.githubusercontent.com/101574764/218291166-ab12134a-f50b-4919-add9-917a199d1fa2.jpg)
+
+**Test 5 :** Customer ingin mengganti item yang sebelumnya Ayam goreng menjadi Ayam bakar.
+![5  update name](https://user-images.githubusercontent.com/101574764/218291168-622efbb9-36da-4cc4-8ba9-686a9ddaf834.jpg)
+
+**Test 6 :** Customer ingin menghapus item Pasta Gigi dikarenakan tidak menjadi membeli, sehingga pesanan terkahir nya menjadi Ayam Bakar saja yang harga 30.000 sebanyak 4 ekor.
+![6  delete](https://user-images.githubusercontent.com/101574764/218291171-b810c12f-0edd-4aa3-8807-10db8cf2e214.jpg)
+
+**Test 7 :** Customer ingin menghapus semua pesanan yang sudah dimasukkan dan mengecek apakah pesanannya sudah terhapus semua.
+![7  reset dan co](https://user-images.githubusercontent.com/101574764/218291172-4521297c-3677-4d3d-9890-3e8c76a68e4f.jpg)
+
+**Test 8 :** Customer ingin mengulang kembali dengan memasukan semua item barang yang ingin dibeli dan mengecek pesanannya apakah sudah sesuai. Item yang dimasukkan adalah :
+- Nama item : Ayam Goreng, Quantity : 2, Harga : 20.000
+- Nama item : Pasta Gigi, Quantity : 3, Harga : 15.000
+- Nama item : Mainan Mobil, Quantity : 1, Harga : 200.000
+- Nama item : Mi Instan, Quantity : 5, Harga : 3.000
+![8  check order](https://user-images.githubusercontent.com/101574764/218291823-95196f3b-cd32-444a-b622-2ff45b33b59e.jpg)
+
+**Test 9 :** Customer selesai berbelanja dan menghitung total belanja yang harus dibayarkan.
+![9  total](https://user-images.githubusercontent.com/101574764/218291188-c10d7eb1-8818-4f72-aa51-d1e341683f89.jpg)
 
 
