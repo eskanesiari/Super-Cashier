@@ -36,16 +36,12 @@ Semua kode di bawah ini berada pada file `script.py`.
 
 ## CODE "TEST CASE"
 Semua code di bawah ini berada pada file `test_case.ipyb`.
-
-
-**Test 1**
-Customer ingin membuat ID transaksi.
+**Test 1 :**Customer ingin membuat ID transaksi.
 ---
 ![1  ID customer](https://user-images.githubusercontent.com/101574764/218291152-b3e34d57-4544-40a6-9a16-635ff4fd2002.jpg)
 
 
-**Test 2**
-Customer ingin menambahkan dua item baru menggunakan method `add_item()`, dan item yang ditambahkan adalah 
+**Test 2 :** Customer ingin menambahkan dua item baru menggunakan method `add_item()`, dan item yang ditambahkan adalah 
 - Nama item : Ayam Goreng, Quantity : 2, Harga : 20.000
 - Nama item : Pasta Gigi, Quantity : 3, Harga : 15.000
 ---
