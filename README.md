@@ -71,11 +71,11 @@ Semua code di bawah ini berada pada file `test_case.ipyb`.
 ![9  total](https://user-images.githubusercontent.com/101574764/218291188-c10d7eb1-8818-4f72-aa51-d1e341683f89.jpg)
 
 
-##SUMMARY
+## SUMMARY
 1. Super Cashier merupakan suatu program yang dapat membantu penjual/pemilik supermarket untuk menjual produknya secara efiesien dan tercatat.
 2. Semua fitur yang ada dalam program ini sangat membantu customer dengan mudah, tepat dan cepat dalam proses transaksi yang dilakukan secara mandiri.
 
-##NEXT DEVELOPMENT
+## NEXT DEVELOPMENT
 1. Sebaiknya dibuatkan dalam suatu aplikasi yang friendly user
 2. Sebaiknya ditambahkan dengan fitur pengiriman, live chat dan refund jika terjadi complain.
 
