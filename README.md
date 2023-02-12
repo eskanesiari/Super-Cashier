@@ -24,7 +24,14 @@ Ini merupakan suatu project Self-Service Cashier dengan menggunakan bahasa pemog
 ![Untitled Diagram](https://user-images.githubusercontent.com/24706517/210150924-1bea1e4e-c470-417c-9b0a-7e93188c96c8.jpg)
 
 ## CODE SCRIPT
-- Membuat proses untuk `menambahkan barang` belanjaan.
+- Membuat fungsi untuk `memasukkan nama item, jumlah item, dan harga barang` dengan `def add_item(self, item, jumlah, harga):`
+- Membuat fungsi untuk `meng-update nama barang` dengan `def update_item_name(self, item, item_baru):`
+
+
+
+
+
+
 - Membuat proses untuk `menghapus barang` belanjaan.
 - Membuat proses untuk `edit nama` barang belanjaan.
 - Membuat proses untuk `edit jumlah` barang belanjaan. 
