@@ -23,22 +23,17 @@ Ini merupakan suatu project Self-Service Cashier dengan menggunakan bahasa pemog
 ## FLOWCHART
 ![Untitled Diagram](https://user-images.githubusercontent.com/24706517/210150924-1bea1e4e-c470-417c-9b0a-7e93188c96c8.jpg)
 
-## CODE SCRIPT
-- Membuat fungsi untuk `memasukkan nama item, jumlah item, dan harga barang` dengan `def add_item(self, item, jumlah, harga):`
-- Membuat fungsi untuk `meng-update nama barang` dengan `def update_item_name(self, item, item_baru):`
+## CODE "SCRIPT"
+Semua kode di bawah ini berada pada file `script.py`.
+- Membuat fungsi untuk memasukkan nama item, jumlah item, dan harga barang dengan `def add_item(self, item, jumlah, harga):`
+- Membuat fungsi untuk meng-update nama item dengan `def update_item_name(self, item, item_baru):`
+- Membuat fungsi untuk meng-update quantity/jumlah item dengan `def update_item_qty(self, item, jumlah_baru):`
+- Membuat fungsi untuk meng-update harga item dengan `def update_item_price(self, item, harga_baru):`
+- Membuat fungsi untuk menghapus salah satu item dengan `def delete_item(self, item):`
+- Membuat fungsi untuk menghapus semua transaksi (reset) dengan `def reset_transaction(self):`
+- Membuat fungsi untuk mengecek pesanan (check order) dengan `def check_order(self):`
+- Membuat fungsi untuk menghitung total belanja yang dibeli dengan `def total_price(self):`
+Semua kode ini berada pada file `script.py`
 
-
-
-
-
-
-- Membuat proses untuk `menghapus barang` belanjaan.
-- Membuat proses untuk `edit nama` barang belanjaan.
-- Membuat proses untuk `edit jumlah` barang belanjaan. 
-- Membuat proses untuk `edit harga` barang belanjaan.
-- Membuat proses untuk `menghitung total harga` barang belanjaan.
-- Membuat proses untuk `menghitung diskon` barang belanjaan.
-- Membuat proses untuk `mengosongkan barang` belanjaan.
-- Mengecek barang belanjaan dengan `menampilkan seluruh barang belanjaan`.
-
-
+## CODE "TEST CASE"
+Semua code di bawah ini berada pada file `test_case.ipyb`.
